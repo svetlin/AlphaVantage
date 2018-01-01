@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alpha Vantage</string>
+    <string name="title_stock_detail">Stock Detail</string>
+</resources>
